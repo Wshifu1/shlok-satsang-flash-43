@@ -4,6 +4,7 @@ export interface Shlok {
   sanskrit: string;
   transliteration: string;
   meaning: string;
+  context?: string;
 }
 
 export const satsangDikshaShloks: Shlok[] = [
