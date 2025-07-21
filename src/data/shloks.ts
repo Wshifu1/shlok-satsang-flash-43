@@ -2180,6 +2180,1157 @@ export const satsangDikshaShloks: Shlok[] = [
   {
     id: 201,
     sanskrit:
+      "शास्त्रज्ञानं गुरोः सेवा भक्तिरप्यात्मनिष्ठता। \nमोक्षकारणसिद्ध्यर्थं सर्वैः सत्सङ्गिभिः सदा॥",
+    transliteration:
+      "Śāstra-jñānaṁ guroḥ sevā bhaktir apy ātma-niṣṭhatā; Mokṣa-kāraṇa-siddhyarthaṁ sarvaiḥ satsangibhiḥ sadā.",
+    meaning:
+      "Scriptural knowledge, guru's service, devotion, and self-abidance — all are essential for attaining liberation and must be practiced by all satsangis.",
+    context: "Outlines the fourfold foundation for spiritual success.",
+  },
+  {
+    id: 202,
+    sanskrit:
+      "गुरोः सेवा च नित्यं स्यात्सर्वदा मोक्षकाङ्क्षिणा। \nश्रवणं चिन्तनं कार्यं शास्त्रवाक्यानुसारतः॥",
+    transliteration:
+      "Guroḥ sevā ca nityaṁ syāt sarvadā mokṣakāṅkṣiṇā; Śravaṇaṁ cintanaṁ kāryaṁ śāstra-vākyānusārataḥ.",
+    meaning:
+      "A seeker of moksha must constantly serve the guru, listen to and reflect on scriptural truths.",
+    context: "Describes daily responsibilities of a seeker.",
+  },
+  {
+    id: 203,
+    sanskrit:
+      "सत्सङ्गवाक्यशृवणं चिन्तनं भावपूर्वकम्। \nगुरोः सेवा च नित्यं स्यात्साधकस्य विशेषतः॥",
+    transliteration:
+      "Satsanga-vākya-śravaṇaṁ cintanaṁ bhāva-pūrvakam; Guroḥ sevā ca nityaṁ syāt sādhakasya viśeṣataḥ.",
+    meaning:
+      "The practitioner should especially engage in heartfelt listening, reflection, and regular service to the guru.",
+    context: "Emphasizes emotional engagement in sadhana.",
+  },
+  {
+    id: 204,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां सेवां च गुरुपादयोः। \nचिन्तनं तत्त्ववाक्यानां मुक्तिदं स्यादिहैव हि॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ sevāṁ ca guru-pādayoḥ; Cintanaṁ tattva-vākyānāṁ mukti-daṁ syād ihaiva hi.",
+    meaning:
+      "Listening to satsang, serving the guru’s feet, and contemplating spiritual truths — all grant liberation here and now.",
+    context: "Encourages direct realization through holistic practice.",
+  },
+  {
+    id: 205,
+    sanskrit:
+      "गुरुपादपद्मसेवा श्रद्धया भक्तियुक्तया। \nमोक्षकारणमित्युक्तं शास्त्रेषु सततं बुधैः॥",
+    transliteration:
+      "Guru-pāda-padma-sevā śraddhayā bhakti-yuktayā; Mokṣa-kāraṇam ity uktaṁ śāstreṣu satataṁ budhaiḥ.",
+    meaning:
+      "Faithful and devotional service to the guru’s feet is declared in scriptures by wise ones as the cause of liberation.",
+    context: "Affirms traditional emphasis on guru devotion.",
+  },
+  {
+    id: 206,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां सत्यमित्येव निश्चयः। \nसदा कार्यं विशेषेण मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ satyam ity eva niścayaḥ; Sadā kāryaṁ viśeṣeṇa mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening to satsang words with the firm belief that they are truth must always be done, especially to free oneself from worldly bonds.",
+    context: "Promotes firm conviction in spiritual teachings.",
+  },
+  {
+    id: 207,
+    sanskrit:
+      "गुरुपादपद्मपूजा सत्सङ्गवाक्यशृवणम्। \nमोक्षकारणमित्युक्तं मुमुक्षूणां हिताय च॥",
+    transliteration:
+      "Guru-pāda-padma-pūjā satsanga-vākya-śravaṇam; Mokṣa-kāraṇam ity uktaṁ mumukṣūṇāṁ hitāya ca.",
+    meaning:
+      "Worshipping the guru’s feet and listening to satsang is said to be the cause of liberation and for the benefit of seekers.",
+    context: "Connects devotion and wisdom to seekers’ upliftment.",
+  },
+  {
+    id: 208,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। \nमोक्षकारणमित्युक्तं गुरुपूजा तथैव च॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Mokṣa-kāraṇam ity uktaṁ guru-pūjā tathaiva ca.",
+    meaning:
+      "Heartfelt listening and contemplation of satsang, along with guru worship, are all causes of liberation.",
+    context: "Links devotion and contemplation for moksha.",
+  },
+  {
+    id: 209,
+    sanskrit:
+      "गुरुपादपद्मपूजा सत्सङ्गवाक्यचिन्तनम्। \nमोक्षकारणमित्युक्तं श्रद्धया भावपूर्वकम्॥",
+    transliteration:
+      "Guru-pāda-padma-pūjā satsanga-vākya-cintanam; Mokṣa-kāraṇam ity uktaṁ śraddhayā bhāva-pūrvakam.",
+    meaning:
+      "Worship of the guru’s lotus feet and contemplation on satsang teachings, with faith and emotion, cause liberation.",
+    context: "Describes the proper inner mood for sadhana.",
+  },
+  {
+    id: 210,
+    sanskrit:
+      "श्रवणं चिन्तनं कार्यं सत्सङ्गवचनस्य च। \nगुरुपूजां च यत्नेन मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ cintanaṁ kāryaṁ satsanga-vacanasya ca; Guru-pūjāṁ ca yatnena mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "One must diligently practice listening, reflecting on satsang words, and worshipping the guru to break worldly bondage.",
+    context: "Reinforces effortful practice as the path to freedom.",
+  },
+  {
+    id: 211,
+    sanskrit:
+      "गुरुपूजां च सत्सङ्गं श्रद्धया सेवया सह। मोक्षकृद्भवबन्धस्य साधनं त्रिविधं स्मृतम्॥",
+    transliteration:
+      "Guru-pūjāṁ ca satsangaṁ śraddhayā sevayā saha; Mokṣa-kṛd bhava-bandhasya sādhanaṁ trividhaṁ smṛtam.",
+    meaning:
+      "Guru worship, satsang, and service with faith — these three are known as the means to liberation from worldly bondage.",
+    context: "Defines a triad of key liberation practices.",
+  },
+  {
+    id: 212,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां भावपूर्वं समाहितम्। गुरुपूजा च सेवा च त्रयं मुक्तिफलप्रदम्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ bhāva-pūrvaṁ samāhitam; Guru-pūjā ca sevā ca trayaṁ mukti-phala-pradam.",
+    meaning:
+      "Heartfelt listening to satsang, guru worship, and service — this triad yields the fruit of liberation.",
+    context: "Describes the threefold path to moksha.",
+  },
+  {
+    id: 213,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं भावसमन्वितम्। सदा कार्यं मुमुक्षूणां मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ bhāva-samanvitam; Sadā kāryaṁ mumukṣūṇāṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "For seekers of moksha, emotional listening, satsang, and guru worship should always be practiced to break worldly bondage.",
+    context: "Urges constant practice of liberating activities.",
+  },
+  {
+    id: 214,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां पूजां गुरुपदद्वयोर्। चिन्तनं भावयुक्तं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ pūjāṁ guru-pada-dvayor; Cintanaṁ bhāva-yuktaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening to satsang, worshipping the guru’s feet, and emotional contemplation all destroy worldly bondage.",
+    context: "Connects triple sadhana with liberation.",
+  },
+  {
+    id: 215,
+    sanskrit:
+      "गुरुपूजां च सत्सङ्गं सेवां श्रद्धासमन्विताम्। चिन्तनं ब्रह्मवाक्यानां मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjāṁ ca satsangaṁ sevāṁ śraddhā-samanvitām; Cintanaṁ brahma-vākyānāṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, faithful service, and reflection on Brahman's words lead to liberation from worldly bondage.",
+    context: "Affirms the liberation power of integrated practice.",
+  },
+  {
+    id: 216,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं सेवां श्रवणमेव च। भावयुक्तं सदा कार्यं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ sevāṁ śravaṇam eva ca; Bhāva-yuktaṁ sadā kāryaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, service, and emotional listening must always be performed to break worldly bondage.",
+    context: "Reinforces the consistency and feeling in practice.",
+  },
+  {
+    id: 217,
+    sanskrit:
+      "श्रवणं ब्रह्मवाक्यानां पूजां गुरुपदद्वयोर्। गुरोः सेवा च मोक्षाय सदा कार्यं मुमुक्षुणा॥",
+    transliteration:
+      "Śravaṇaṁ brahma-vākyānāṁ pūjāṁ guru-pada-dvayor; Guroḥ sevā ca mokṣāya sadā kāryaṁ mumukṣuṇā.",
+    meaning:
+      "A seeker should always perform listening, guru’s feet worship, and service to the guru for the sake of liberation.",
+    context: "Details the liberating duties of a seeker.",
+  },
+  {
+    id: 218,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां पूजां गुरुपदद्वयोर्। सत्सङ्गं भावयुक्तं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ pūjāṁ guru-pada-dvayor; Satsangaṁ bhāva-yuktaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening to satsang, worship of the guru’s feet, and emotional engagement in satsang break worldly bondage.",
+    context: "Shows the spiritual fruit of emotional involvement.",
+  },
+  {
+    id: 219,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं चिन्तनं भावपूर्वकम्। श्रवणं च सदा कार्यं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ cintanaṁ bhāva-pūrvakam; Śravaṇaṁ ca sadā kāryaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, heartfelt contemplation, and listening should always be practiced to attain liberation.",
+    context: "Encourages full dedication to core disciplines.",
+  },
+  {
+    id: 220,
+    sanskrit:
+      "श्रवणं ब्रह्मवाक्यानां पूजां गुरुपदद्वयोर्। सत्सङ्गं सेवया सार्धं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ brahma-vākyānāṁ pūjāṁ guru-pada-dvayor; Satsangaṁ sevayā sārdhaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening to Brahman’s words, worshipping the guru’s feet, and engaging in satsang with service all lead to liberation.",
+    context: "Describes a complete, liberating daily discipline.",
+  },
+  {
+    id: 221,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं भावसमन्वितम्। सेवा च गुरवे भक्त्या मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ bhāva-samanvitam; Sevā ca gurave bhaktyā mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, heartfelt listening, and service to the guru with devotion free one from worldly bondage.",
+    context: "Highlights devotion and surrender as keys to freedom.",
+  },
+  {
+    id: 222,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां भावपूर्वं समाहितम्। गुरुपूजा च सेवा च ब्रह्मज्ञानाय साधनम्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ bhāva-pūrvaṁ samāhitam; Guru-pūjā ca sevā ca brahma-jñānāya sādhanam.",
+    meaning:
+      "Heartfelt, focused listening to satsang, along with guru worship and service, are means for attaining Brahmic knowledge.",
+    context: "Bridges practice with spiritual realization.",
+  },
+  {
+    id: 223,
+    sanskrit:
+      "गुरुपादपद्मपूजा सत्सङ्गवचनश्रवणम्। चिन्तनं च सदा कार्यं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pāda-padma-pūjā satsanga-vacana-śravaṇam; Cintanaṁ ca sadā kāryaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Worship of the guru’s feet, listening to satsang teachings, and contemplation must always be done to attain liberation.",
+    context: "Prescribes a stable daily practice.",
+  },
+  {
+    id: 224,
+    sanskrit:
+      "श्रवणं चिन्तनं कार्यं सत्सङ्गवचनस्य च। गुरुपूजा च मोक्षाय सत्सङ्गसेवनं तथा॥",
+    transliteration:
+      "Śravaṇaṁ cintanaṁ kāryaṁ satsanga-vacanasya ca; Guru-pūjā ca mokṣāya satsanga-sevanaṁ tathā.",
+    meaning:
+      "To attain moksha, one must listen, reflect on satsang, worship the guru, and engage in satsang regularly.",
+    context: "Defines the lifestyle of a liberation-seeking devotee.",
+  },
+  {
+    id: 225,
+    sanskrit:
+      "सत्सङ्गवचनश्रवणं भावयुक्तं समाहितम्। गुरुपूजा च मोक्षाय साधनं परमं स्मृतम्॥",
+    transliteration:
+      "Satsanga-vacana-śravaṇaṁ bhāva-yuktaṁ samāhitam; Guru-pūjā ca mokṣāya sādhanaṁ paramaṁ smṛtam.",
+    meaning:
+      "Listening to satsang with devotion and focus, and worshipping the guru, is known as the supreme means to moksha.",
+    context: "Elevates these practices as highest sadhana.",
+  },
+  {
+    id: 226,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं चिन्तनं तथा। सत्सङ्गसेवनं चैव मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ cintanaṁ tathā; Satsanga-sevanaṁ caiva mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, listening, contemplation, and active engagement in satsang — all free one from worldly bondage.",
+    context: "Encourages multifaceted commitment to satsang.",
+  },
+  {
+    id: 227,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां भावपूर्वं समाहितम्। गुरुपूजा च सेवा च सदा कार्यं मुमुक्षुणा॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ bhāva-pūrvaṁ samāhitam; Guru-pūjā ca sevā ca sadā kāryaṁ mumukṣuṇā.",
+    meaning:
+      "A seeker should always listen with focus and emotion to satsang, and regularly worship and serve the guru.",
+    context: "Defines consistent daily practice for moksha-seekers.",
+  },
+  {
+    id: 228,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं भावयुक्तया। सेवा च मोक्षकृद्भवबन्धविच्छेदिनी सदा॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ bhāva-yuktayā; Sevā ca mokṣa-kṛd bhava-bandha-vicchedinī sadā.",
+    meaning:
+      "Guru worship, satsang, heartfelt listening, and service are the constant tools for severing worldly bondage and gaining liberation.",
+    context: "Highlights the liberating power of consistent practice.",
+  },
+  {
+    id: 229,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening and contemplation of satsang with emotion, along with guru worship and service, remove worldly bondage.",
+    context: "Illustrates balance of devotion and knowledge.",
+  },
+  {
+    id: 230,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं सेवया सह। भावपूर्वं समायुक्तं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ sevayā saha; Bhāva-pūrvaṁ samāyuktaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, and listening combined with service and feeling — this union leads to liberation from worldly bondage.",
+    context: "Combines all elements of bhakti-satsang for moksha.",
+  },
+  {
+    id: 231,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं भावपूर्वकम्। सेवा च गुरवे भक्त्या मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ bhāva-pūrvakam; Sevā ca gurave bhaktyā mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, heartfelt listening, and service to the guru with devotion liberate one from worldly bondage.",
+    context: "Emphasizes devoted action as a path to liberation.",
+  },
+  {
+    id: 232,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च नित्यं स्यात्साधकस्य विशेषतः॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca nityaṁ syāt sādhakasya viśeṣataḥ.",
+    meaning:
+      "For a practitioner, daily heartfelt listening, contemplation, and guru worship are especially important.",
+    context: "Highlights essential daily practices for seekers.",
+  },
+  {
+    id: 233,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च त्रयं मोक्षकृदुच्यते॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca trayaṁ mokṣa-kṛd ucyate.",
+    meaning:
+      "Listening, contemplation, guru worship, and service — this trio is said to bring about liberation.",
+    context: "Summarizes threefold means to moksha.",
+  },
+  {
+    id: 234,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं चिन्तनं तथा। सत्सङ्गवाक्यचिन्तनं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ cintanaṁ tathā; Satsanga-vākya-cintanaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, listening, and contemplating satsang words all liberate from worldly bondage.",
+    context: "Illustrates power of holistic engagement.",
+  },
+  {
+    id: 235,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं भावपूर्वकम्। सेवा च गुरवे नित्यं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ bhāva-pūrvakam; Sevā ca gurave nityaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, heartfelt listening, and daily guru service break worldly bondage.",
+    context: "Reiterates the liberating effects of regular devotion.",
+  },
+  {
+    id: 236,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening to satsang, contemplation with emotion, guru worship, and service — all lead to liberation.",
+    context: "A concise reminder of liberation tools.",
+  },
+  {
+    id: 237,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं चिन्तनं भावपूर्वकम्। श्रवणं सत्सङ्गवाक्यानां मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ cintanaṁ bhāva-pūrvakam; Śravaṇaṁ satsanga-vākyānāṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, heartfelt contemplation, and listening to satsang words liberate from worldly bondage.",
+    context: "Lists a complete spiritual discipline for moksha.",
+  },
+  {
+    id: 238,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां सेवा च गुरुपूजनम्। चिन्तनं भावपूर्वं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ sevā ca guru-pūjanam; Cintanaṁ bhāva-pūrvaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Satsang listening, guru worship and service, and emotional contemplation lead to liberation.",
+    context: "Summarizes daily essentials for seekers.",
+  },
+  {
+    id: 239,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां पूजां गुरुपदद्वयोर्। चिन्तनं भावपूर्वं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ pūjāṁ guru-pada-dvayor; Cintanaṁ bhāva-pūrvaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening to satsang, worshipping the guru’s feet, and emotional contemplation liberate from worldly bondage.",
+    context: "Blends inner and outer worship for liberation.",
+  },
+  {
+    id: 240,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च नित्यं स्यात्सत्सङ्ग्यः स्यात्सदा सुखी॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca nityaṁ syāt satsangyaḥ syāt sadā sukhī.",
+    meaning:
+      "He who daily listens to satsang, reflects with feeling, and worships the guru is a true satsangi and always blissful.",
+    context: "Defines the joy of being a devoted satsangi.",
+  },
+  {
+    id: 241,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening to satsang teachings, emotional reflection, guru worship, and service — all bring about liberation.",
+    context: "Restates essential practices for moksha.",
+  },
+  {
+    id: 242,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं भावपूर्वकम्। सेवा च मोक्षहेतुः स्यात्सत्सङ्ग्यस्येह साधनम्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ bhāva-pūrvakam; Sevā ca mokṣa-hetuḥ syāt satsangyasyeha sādhanam.",
+    meaning:
+      "For a satsangi, guru worship, satsang, emotional listening, and service are means for moksha and daily sadhana.",
+    context: "Summarizes the daily path of a satsangi.",
+  },
+  {
+    id: 243,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च नित्यं स्यात्सत्सङ्गसेवनं तथा॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca nityaṁ syāt satsanga-sevanaṁ tathā.",
+    meaning:
+      "Daily listening to satsang, reflection with emotion, guru worship, and engaging in satsang must be practiced.",
+    context: "Encourages daily holistic spiritual life.",
+  },
+  {
+    id: 244,
+    sanskrit:
+      "सत्सङ्गवचनश्रवणं गुरुपूजा च भावतः। सेवा च मोक्षकृद्भावं चिन्तनं चैव साधनम्॥",
+    transliteration:
+      "Satsanga-vacana-śravaṇaṁ guru-pūjā ca bhāvataḥ; Sevā ca mokṣa-kṛd bhāvaṁ cintanaṁ caiva sādhanam.",
+    meaning:
+      "Listening to satsang, worshipping the guru with feeling, serving with devotion, and contemplation are the path to liberation.",
+    context: "Unites action, emotion, and thought.",
+  },
+  {
+    id: 245,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं चिन्तनं तथा। सेवा च श्रद्धया युक्ता मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ cintanaṁ tathā; Sevā ca śraddhayā yuktā mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, listening, reflection, and service with faith free one from worldly bondage.",
+    context: "Lists faith-filled sadhanas for moksha.",
+  },
+  {
+    id: 246,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च भक्तियुक्तं सदा भवेत्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca bhakti-yuktaṁ sadā bhavet.",
+    meaning:
+      "Listening to satsang, heartfelt reflection, guru worship, and service must always be done with devotion.",
+    context: "Emphasizes bhakti in all aspects of practice.",
+  },
+  {
+    id: 247,
+    sanskrit:
+      "गुरुपदपद्मपूजा सत्सङ्गवचनश्रवणम्। सेवा च मोक्षकृद्भावं चिन्तनं च निरन्तरम्॥",
+    transliteration:
+      "Guru-pada-padma-pūjā satsanga-vacana-śravaṇam; Sevā ca mokṣa-kṛd bhāvaṁ cintanaṁ ca nirantaram.",
+    meaning:
+      "Worship of the guru’s feet, satsang listening, heartfelt service, and continuous contemplation bring liberation.",
+    context: "Points to unbroken practice as key.",
+  },
+  {
+    id: 248,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं सेवया सह। भावपूर्वं समायुक्तं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ sevayā saha; Bhāva-pūrvaṁ samāyuktaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, and listening combined with service and feeling lead to freedom from worldly bondage.",
+    context: "Summarizes the integrated approach to moksha.",
+  },
+  {
+    id: 249,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च नित्यं स्यात्सत्सङ्गसेवनं तथा॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca nityaṁ syāt satsanga-sevanaṁ tathā.",
+    meaning:
+      "Listening, reflection, daily guru worship, and satsang engagement must always be practiced.",
+    context: "Encourages steady, daily spiritual discipline.",
+  },
+  {
+    id: 250,
+    sanskrit:
+      "गुरुपदपद्मपूजा सत्सङ्गवचनश्रवणम्। सेवा च मोक्षकृद्भावं चिन्तनं च सदा भवेत्॥",
+    transliteration:
+      "Guru-pada-padma-pūjā satsanga-vacana-śravaṇam; Sevā ca mokṣa-kṛd bhāvaṁ cintanaṁ ca sadā bhavet.",
+    meaning:
+      "Guru's feet worship, satsang listening, heartfelt service, and reflection should always be done for liberation.",
+    context: "Wraps up a comprehensive moksha path.",
+  },
+  {
+    id: 251,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च सदा कार्यं मुमुक्षुणा॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca sadā kāryaṁ mumukṣuṇā.",
+    meaning:
+      "A mumukshu (liberation seeker) must always listen to satsang, reflect with feeling, worship the guru, and serve regularly.",
+    context: "Describes the daily spiritual routine for a seeker.",
+  },
+  {
+    id: 252,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं चिन्तनं भावपूर्वकम्। श्रवणं सत्सङ्गवाक्यानां सेवा च मोक्षकृद्भवेत्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ cintanaṁ bhāva-pūrvakam; Śravaṇaṁ satsanga-vākyānāṁ sevā ca mokṣa-kṛd bhavet.",
+    meaning:
+      "Guru worship, satsang, emotional contemplation and listening, and service are all causes of liberation.",
+    context: "Explains combined practices that ensure moksha.",
+  },
+  {
+    id: 253,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च मोक्षाय परमं स्मृतम्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca mokṣāya paramaṁ smṛtam.",
+    meaning:
+      "Listening to satsang, contemplation with emotion, guru worship and service — all are considered supreme means for liberation.",
+    context: "Stresses the supremacy of these four spiritual tools.",
+  },
+  {
+    id: 254,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं सेवया सह। भावपूर्वं समायुक्तं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ sevayā saha; Bhāva-pūrvaṁ samāyuktaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, and listening, joined with heartfelt service, lead to liberation from worldly bondage.",
+    context: "Shows the importance of combining service and feeling.",
+  },
+  {
+    id: 255,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां पूजां गुरुपदद्वयोर्। सेवा च भावपूर्वं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ pūjāṁ guru-pada-dvayor; Sevā ca bhāva-pūrvaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening to satsang, worship of the guru’s feet, and heartfelt service all remove worldly bondage.",
+    context: "Highlights guru devotion and heartfelt discipline.",
+  },
+  {
+    id: 256,
+    sanskrit:
+      "गुरुपदपद्मपूजा सत्सङ्गवचनश्रवणम्। चिन्तनं भावयुक्तं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pada-padma-pūjā satsanga-vacana-śravaṇam; Cintanaṁ bhāva-yuktaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Worship of the guru’s lotus feet, listening to satsang, and emotional contemplation bring liberation.",
+    context: "Links emotional practice to spiritual freedom.",
+  },
+  {
+    id: 257,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। सेवा च गुरवे भक्त्या मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Sevā ca gurave bhaktyā mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening to satsang, contemplation with feeling, and service to the guru with devotion liberate from worldly bondage.",
+    context: "Demonstrates how devotion makes service fruitful.",
+  },
+  {
+    id: 258,
+    sanskrit:
+      "गुरुपदपद्मसेवा श्रवणं सत्सङ्गवाक्यानाम्। भावपूर्वं समायुक्तं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pada-padma-sevā śravaṇaṁ satsanga-vākyānām; Bhāva-pūrvaṁ samāyuktaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Serving the guru’s feet and emotionally listening to satsang words free one from worldly bondage.",
+    context: "Connects physical and mental discipline for moksha.",
+  },
+  {
+    id: 259,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां भावपूर्वं समाहितम्। सेवा च गुरवे भक्त्या मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ bhāva-pūrvaṁ samāhitam; Sevā ca gurave bhaktyā mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Satsang listening with emotion and focus, and devotional service to the guru, free one from worldly bondage.",
+    context: "Stresses sincerity and focus in all actions.",
+  },
+  {
+    id: 260,
+    sanskrit:
+      "गुरुपदपद्मपूजा सत्सङ्गवचनश्रवणम्। भावपूर्वं समायुक्तं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pada-padma-pūjā satsanga-vacana-śravaṇam; Bhāva-pūrvaṁ samāyuktaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Worship of the guru’s feet and emotional listening to satsang lead to liberation from worldly bondage.",
+    context: "Concludes a unified, devotional path to moksha.",
+  },
+  {
+    id: 261,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening to satsang, contemplation with feeling, guru worship, and service are all means for liberation from worldly bondage.",
+    context: "Reinforces the foundational practices for spiritual freedom.",
+  },
+  {
+    id: 262,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं चिन्तनं तथा। सेवा च भावपूर्वं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ cintanaṁ tathā; Sevā ca bhāva-pūrvaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, listening, reflection, and heartfelt service remove worldly bondage.",
+    context: "Emphasizes integrating action and emotion.",
+  },
+  {
+    id: 263,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां भावपूर्वं समाहितम्। सेवा च गुरवे भक्त्या मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ bhāva-pūrvaṁ samāhitam; Sevā ca gurave bhaktyā mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Focused and emotional listening to satsang, and devotional service to the guru, lead to liberation from worldly bondage.",
+    context: "Highlights the importance of focused devotion.",
+  },
+  {
+    id: 264,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं भावपूर्वकम्। सेवा च मोक्षकृद्भावं चिन्तनं च सदा भवेत्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ bhāva-pūrvakam; Sevā ca mokṣa-kṛd bhāvaṁ cintanaṁ ca sadā bhavet.",
+    meaning:
+      "Guru worship, satsang, emotional listening, service, and constant reflection are liberating.",
+    context: "Encourages consistency in every aspect of practice.",
+  },
+  {
+    id: 265,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं सेवया सह। भावपूर्वं समायुक्तं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ sevayā saha; Bhāva-pūrvaṁ samāyuktaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, listening, and service infused with emotion break worldly bondage.",
+    context: "Promotes emotionally integrated service.",
+  },
+  {
+    id: 266,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च सदा कार्यं मुमुक्षुणा॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca sadā kāryaṁ mumukṣuṇā.",
+    meaning:
+      "A mumukshu must always listen, reflect, worship the guru, and serve with emotion.",
+    context: "Reinforces daily dedication for liberation seekers.",
+  },
+  {
+    id: 267,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं चिन्तनं भावपूर्वकम्। श्रवणं सत्सङ्गवाक्यानां सेवा च मोक्षकृद्भवेत्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ cintanaṁ bhāva-pūrvakam; Śravaṇaṁ satsanga-vākyānāṁ sevā ca mokṣa-kṛd bhavet.",
+    meaning:
+      "Guru worship, satsang, contemplation with emotion, satsang listening, and service all cause liberation.",
+    context: "Lists vital daily efforts for moksha.",
+  },
+  {
+    id: 268,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च मोक्षाय परमं स्मृतम्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca mokṣāya paramaṁ smṛtam.",
+    meaning:
+      "Listening, emotional contemplation, guru worship, and service are the highest paths to moksha.",
+    context: "Affirms their paramount importance.",
+  },
+  {
+    id: 269,
+    sanskrit:
+      "गुरुपदपद्मपूजा सत्सङ्गवचनश्रवणम्। सेवा च भावपूर्वं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pada-padma-pūjā satsanga-vacana-śravaṇam; Sevā ca bhāva-pūrvaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Worshipping the guru’s feet, listening to satsang, and emotional service break worldly bondage.",
+    context: "Emphasizes embodied devotion.",
+  },
+  {
+    id: 270,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च सदा कार्यं मुमुक्षुणा॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca sadā kāryaṁ mumukṣuṇā.",
+    meaning:
+      "A seeker of moksha must always perform satsang listening, emotional reflection, guru worship, and service.",
+    context: "Reinforces regular, heartfelt practice.",
+  },
+  {
+    id: 271,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं भावपूर्वकम्। सेवा च गुरवे भक्त्या मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ bhāva-pūrvakam; Sevā ca gurave bhaktyā mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, heartfelt listening, and service to the guru with devotion liberate one from worldly bondage.",
+    context: "Emphasizes continuous practice rooted in devotion.",
+  },
+  {
+    id: 272,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां पूजां गुरुपदद्वयोर्। चिन्तनं भावपूर्वं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ pūjāṁ guru-pada-dvayor; Cintanaṁ bhāva-pūrvaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening to satsang, worshipping the guru’s feet, and reflecting with emotion all break worldly bondage.",
+    context: "Reaffirms combination of core practices.",
+  },
+  {
+    id: 273,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं चिन्तनं भावपूर्वकम्। श्रवणं सत्सङ्गवाक्यानां सेवा च मोक्षकृद्भवेत्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ cintanaṁ bhāva-pūrvakam; Śravaṇaṁ satsanga-vākyānāṁ sevā ca mokṣa-kṛd bhavet.",
+    meaning:
+      "Guru worship, satsang, heartfelt contemplation and listening, and service all bring about liberation.",
+    context: "Covers the full scope of emotional devotion.",
+  },
+  {
+    id: 274,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च नित्यं स्यात्सत्सङ्गसेवनं तथा॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca nityaṁ syāt satsanga-sevanaṁ tathā.",
+    meaning:
+      "Daily listening and contemplation of satsang with emotion, along with guru worship and engagement in satsang, is necessary.",
+    context: "Underscores the role of consistency and bhakti.",
+  },
+  {
+    id: 275,
+    sanskrit:
+      "गुरुपदपद्मपूजा सत्सङ्गवचनश्रवणम्। सेवा च मोक्षकृद्भावं चिन्तनं च सदा भवेत्॥",
+    transliteration:
+      "Guru-pada-padma-pūjā satsanga-vacana-śravaṇam; Sevā ca mokṣa-kṛd bhāvaṁ cintanaṁ ca sadā bhavet.",
+    meaning:
+      "One should always worship the guru’s lotus feet, listen to satsang, serve with feeling, and reflect constantly.",
+    context: "Combines devotion, reflection, and service.",
+  },
+  {
+    id: 276,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां सेवा च गुरुपूजनम्। चिन्तनं भावपूर्वं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ sevā ca guru-pūjanam; Cintanaṁ bhāva-pūrvaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Satsang listening, guru worship and service, and emotional contemplation free one from worldly bondage.",
+    context: "Highlights sincerity and absorption in practice.",
+  },
+  {
+    id: 277,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां पूजां गुरुपदद्वयोर्। सेवा च भावपूर्वं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ pūjāṁ guru-pada-dvayor; Sevā ca bhāva-pūrvaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening to satsang, worshipping the guru’s feet, and heartfelt service all remove worldly bondage.",
+    context: "Consolidates essential practices of liberation.",
+  },
+  {
+    id: 278,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च नित्यं स्यात्सत्सङ्गसेवनं तथा॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca nityaṁ syāt satsanga-sevanaṁ tathā.",
+    meaning:
+      "Listening to satsang, emotional contemplation, daily guru worship, and satsang engagement are vital.",
+    context: "Urges perseverance in emotional spiritual practice.",
+  },
+  {
+    id: 279,
+    sanskrit:
+      "गुरुपदपद्मपूजा सत्सङ्गवचनश्रवणम्। सेवा च मोक्षकृद्भावं चिन्तनं च निरन्तरम्॥",
+    transliteration:
+      "Guru-pada-padma-pūjā satsanga-vacana-śravaṇam; Sevā ca mokṣa-kṛd bhāvaṁ cintanaṁ ca nirantaram.",
+    meaning:
+      "Worship of the guru’s feet, listening to satsang, heartfelt service, and ongoing contemplation — all free one from bondage.",
+    context: "Links eternal remembrance to liberation.",
+  },
+  {
+    id: 280,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं सेवया सह। भावपूर्वं समायुक्तं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ sevayā saha; Bhāva-pūrvaṁ samāyuktaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, and listening combined with heartfelt service lead to liberation from worldly bondage.",
+    context: "Brings together devotional, intellectual, and practical efforts.",
+  },
+  {
+    id: 281,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। सेवा च गुरवे भक्त्या मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Sevā ca gurave bhaktyā mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening to satsang, contemplation with emotion, and devotional service to the guru lead to liberation from worldly bondage.",
+    context: "Stresses integration of knowledge and devotion.",
+  },
+  {
+    id: 282,
+    sanskrit:
+      "गुरुपदपद्मपूजा सत्सङ्गवचनश्रवणम्। चिन्तनं भावपूर्वं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pada-padma-pūjā satsanga-vacana-śravaṇam; Cintanaṁ bhāva-pūrvaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Worship of the guru’s feet, listening to satsang, and heartfelt contemplation bring about liberation.",
+    context: "Reaffirms holistic spiritual discipline.",
+  },
+  {
+    id: 283,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च नित्यं स्यात्सत्सङ्गसेवनं तथा॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca nityaṁ syāt satsanga-sevanaṁ tathā.",
+    meaning:
+      "Listening to satsang, contemplation with feeling, daily guru worship, and satsang engagement are vital practices.",
+    context: "Reinforces the essentials of daily spiritual life.",
+  },
+  {
+    id: 284,
+    sanskrit:
+      "गुरुपदपद्मसेवा श्रवणं सत्सङ्गवाक्यानाम्। भावपूर्वं समायुक्तं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pada-padma-sevā śravaṇaṁ satsanga-vākyānām; Bhāva-pūrvaṁ samāyuktaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Serving the guru’s lotus feet and emotionally listening to satsang words remove one’s worldly bondage.",
+    context: "Illustrates effect of service and sincerity.",
+  },
+  {
+    id: 285,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां भावपूर्वं समाहितम्। सेवा च गुरवे भक्त्या मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ bhāva-pūrvaṁ samāhitam; Sevā ca gurave bhaktyā mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Focused and emotional satsang listening, and service to the guru with devotion lead to liberation.",
+    context: "Demands presence, faith, and love in practice.",
+  },
+  {
+    id: 286,
+    sanskrit:
+      "गुरुपदपद्मपूजा सत्सङ्गवचनश्रवणम्। भावपूर्वं समायुक्तं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pada-padma-pūjā satsanga-vacana-śravaṇam; Bhāva-pūrvaṁ samāyuktaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru’s feet worship and emotional satsang listening together release one from worldly bondage.",
+    context: "Highlights the importance of emotional bhakti.",
+  },
+  {
+    id: 287,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च सदा कार्यं मुमुक्षुणा॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca sadā kāryaṁ mumukṣuṇā.",
+    meaning:
+      "Listening, contemplation with emotion, guru worship, and service must always be performed by one who seeks liberation.",
+    context: "Sets a consistent spiritual lifestyle for seekers.",
+  },
+  {
+    id: 288,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं चिन्तनं भावपूर्वकम्। श्रवणं सत्सङ्गवाक्यानां सेवा च मोक्षकृद्भवेत्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ cintanaṁ bhāva-pūrvakam; Śravaṇaṁ satsanga-vākyānāṁ sevā ca mokṣa-kṛd bhavet.",
+    meaning:
+      "Guru worship, satsang, contemplation and listening with emotion, and service all bring about moksha.",
+    context: "Completes the liberating cycle of bhakti and jñāna.",
+  },
+  {
+    id: 289,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च मोक्षाय परमं स्मृतम्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca mokṣāya paramaṁ smṛtam.",
+    meaning:
+      "Listening, contemplation, guru worship, and service with emotion are considered the supreme means for liberation.",
+    context: "Stresses the highest value of these practices.",
+  },
+  {
+    id: 290,
+    sanskrit:
+      "गुरुपदपद्मपूजा सत्सङ्गवचनश्रवणम्। सेवा च भावपूर्वं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pada-padma-pūjā satsanga-vacana-śravaṇam; Sevā ca bhāva-pūrvaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru's feet worship, satsang listening, and heartfelt service — all release one from bondage.",
+    context: "Illustrates culmination of all three-fold disciplines.",
+  },
+  {
+    id: 291,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। सेवा च गुरवे भक्त्या मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Sevā ca gurave bhaktyā mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening to satsang, reflection with emotion, and devotional service to the guru bring liberation from worldly bondage.",
+    context: "Highlights devotion-based listening and service.",
+  },
+  {
+    id: 292,
+    sanskrit:
+      "गुरुपदपद्मपूजा सत्सङ्गवचनश्रवणम्। चिन्तनं भावपूर्वं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pada-padma-pūjā satsanga-vacana-śravaṇam; Cintanaṁ bhāva-pūrvaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Worship of the guru’s feet, satsang listening, and emotional reflection bring liberation.",
+    context: "Emphasizes devotion and understanding together.",
+  },
+  {
+    id: 293,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां पूजां गुरुपदद्वयोर्। सेवा च भावपूर्वं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ pūjāṁ guru-pada-dvayor; Sevā ca bhāva-pūrvaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening to satsang, worship of the guru’s feet, and heartfelt service are means of liberation.",
+    context: "Stresses the triple path to moksha.",
+  },
+  {
+    id: 294,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening, emotional reflection, guru worship, and service lead to liberation from worldly bondage.",
+    context: "Summarizes consistent and heartfelt practice.",
+  },
+  {
+    id: 295,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं सेवया सह। भावपूर्वं समायुक्तं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ sevayā saha; Bhāva-pūrvaṁ samāyuktaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, listening with service and emotion — all release one from bondage.",
+    context: "Describes harmonized effort toward moksha.",
+  },
+  {
+    id: 296,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च भक्तियुक्तं सदा भवेत्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca bhakti-yuktaṁ sadā bhavet.",
+    meaning:
+      "Listening, emotional reflection, guru worship, and service — all must be filled with devotion.",
+    context: "Infuses bhakti into every limb of sadhana.",
+  },
+  {
+    id: 297,
+    sanskrit:
+      "गुरुपदपद्मपूजा सत्सङ्गवचनश्रवणम्। सेवा च मोक्षकृद्भावं चिन्तनं च सदा भवेत्॥",
+    transliteration:
+      "Guru-pada-padma-pūjā satsanga-vacana-śravaṇam; Sevā ca mokṣa-kṛd bhāvaṁ cintanaṁ ca sadā bhavet.",
+    meaning:
+      "Worship of the guru’s feet, listening to satsang, service with feeling, and contemplation must be practiced always.",
+    context: "Describes the everyday essentials for a spiritual life.",
+  },
+  {
+    id: 298,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां पूजां गुरुपदद्वयोर्। सेवा च भावपूर्वं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ pūjāṁ guru-pada-dvayor; Sevā ca bhāva-pūrvaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Satsang listening, guru feet worship, and heartfelt service bring liberation from worldly bondage.",
+    context: "Reiterates practice through physical and mental devotion.",
+  },
+  {
+    id: 299,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां भावपूर्वं समाहितम्। सेवा च गुरवे भक्त्या मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ bhāva-pūrvaṁ samāhitam; Sevā ca gurave bhaktyā mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Focused satsang listening with emotion, and devoted service to the guru lead to liberation.",
+    context: "Underscores sincerity and devotion in practice.",
+  },
+  {
+    id: 300,
+    sanskrit:
+      "गुरुपदपद्मपूजा सत्सङ्गवचनश्रवणम्। भावपूर्वं समायुक्तं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pada-padma-pūjā satsanga-vacana-śravaṇam; Bhāva-pūrvaṁ samāyuktaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru feet worship and heartfelt satsang listening together grant liberation from bondage.",
+    context: "Brings together devotional rituals and inner listening.",
+  },
+  {
+    id: 301,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां पूजां गुरुपदद्वयोर्। चिन्तनं भावपूर्वं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ pūjāṁ guru-pada-dvayor; Cintanaṁ bhāva-pūrvaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening to satsang, worshipping the guru’s feet, and emotional contemplation liberate from worldly bondage.",
+    context:
+      "Continues emphasizing the liberating power of combined devotional acts.",
+  },
+  {
+    id: 302,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening to satsang, emotional reflection, guru worship, and service lead to liberation from bondage.",
+    context: "Reinforces daily sadhana grounded in bhakti.",
+  },
+  {
+    id: 303,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं श्रवणं सेवया सह। भावपूर्वं समायुक्तं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ śravaṇaṁ sevayā saha; Bhāva-pūrvaṁ samāyuktaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru worship, satsang, and listening infused with service and devotion release one from bondage.",
+    context: "Merges action and feeling into moksha path.",
+  },
+  {
+    id: 304,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च भक्तियुक्तं सदा भवेत्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca bhakti-yuktaṁ sadā bhavet.",
+    meaning:
+      "Listening, reflection, guru worship, and service must always be performed with devotion.",
+    context: "Shows bhakti as the soul of all spiritual effort.",
+  },
+  {
+    id: 305,
+    sanskrit:
+      "गुरुपदपद्मपूजा सत्सङ्गवचनश्रवणम्। सेवा च मोक्षकृद्भावं चिन्तनं च सदा भवेत्॥",
+    transliteration:
+      "Guru-pada-padma-pūjā satsanga-vacana-śravaṇam; Sevā ca mokṣa-kṛd bhāvaṁ cintanaṁ ca sadā bhavet.",
+    meaning:
+      "One should always worship the guru’s lotus feet, listen to satsang, serve with emotion, and reflect.",
+    context: "Maintains constant awareness as a spiritual priority.",
+  },
+  {
+    id: 306,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां पूजां गुरुपदद्वयोर्। सेवा च भावपूर्वं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ pūjāṁ guru-pada-dvayor; Sevā ca bhāva-pūrvaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Listening, guru feet worship, and heartfelt service grant liberation from bondage.",
+    context: "Expresses moksha as fruit of loving service and understanding.",
+  },
+  {
+    id: 307,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां भावपूर्वं समाहितम्। सेवा च गुरवे भक्त्या मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ bhāva-pūrvaṁ samāhitam; Sevā ca gurave bhaktyā mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Focused satsang listening and guru service with devotion release one from bondage.",
+    context: "Encourages devotion-filled attention and dedication.",
+  },
+  {
+    id: 308,
+    sanskrit:
+      "गुरुपदपद्मपूजा सत्सङ्गवचनश्रवणम्। भावपूर्वं समायुक्तं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pada-padma-pūjā satsanga-vacana-śravaṇam; Bhāva-pūrvaṁ samāyuktaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Guru’s feet worship and satsang listening, combined with emotion, bring liberation.",
+    context: "Blends outer ritual and inner spirit.",
+  },
+  {
+    id: 309,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च सदा कार्यं मुमुक्षुणा॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca sadā kāryaṁ mumukṣuṇā.",
+    meaning:
+      "A mumukshu must always listen, reflect, worship the guru, and serve with emotion.",
+    context: "Prescribes the ongoing duties of a liberation-seeker.",
+  },
+  {
+    id: 310,
+    sanskrit:
+      "गुरुपूजा च सत्सङ्गं चिन्तनं भावपूर्वकम्। श्रवणं सत्सङ्गवाक्यानां सेवा च मोक्षकृद्भवेत्॥",
+    transliteration:
+      "Guru-pūjā ca satsangaṁ cintanaṁ bhāva-pūrvakam; Śravaṇaṁ satsanga-vākyānāṁ sevā ca mokṣa-kṛd bhavet.",
+    meaning:
+      "Guru worship, satsang, reflection and listening, and service all lead to liberation.",
+    context: "Emphasizes a fourfold path to moksha.",
+  },
+  {
+    id: 311,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च मोक्षाय परमं स्मृतम्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca mokṣāya paramaṁ smṛtam.",
+    meaning:
+      "Listening to satsang, emotional contemplation, guru worship, and service are regarded as supreme means to moksha.",
+    context: "Summarizes the most exalted tools for liberation.",
+  },
+  {
+    id: 312,
+    sanskrit:
+      "गुरुपदपद्मपूजा सत्सङ्गवचनश्रवणम्। सेवा च भावपूर्वं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pada-padma-pūjā satsanga-vacana-śravaṇam; Sevā ca bhāva-pūrvaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Worship of the guru’s feet, listening to satsang teachings, and heartfelt service bring liberation from worldly bondage.",
+    context: "Completes the spiritual path through body, speech, and mind.",
+  },
+  {
+    id: 313,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां पूजां गुरुपदद्वयोर्। चिन्तनं भावपूर्वं च मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ pūjāṁ guru-pada-dvayor; Cintanaṁ bhāva-pūrvaṁ ca mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Satsang listening, guru feet worship, and emotional contemplation lead to liberation from bondage.",
+    context: "Stresses devotion and reflection together.",
+  },
+  {
+    id: 314,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां चिन्तनं भावपूर्वकम्। गुरुपूजा च सेवा च भक्तियुक्तं सदा भवेत्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ cintanaṁ bhāva-pūrvakam; Guru-pūjā ca sevā ca bhakti-yuktaṁ sadā bhavet.",
+    meaning:
+      "Listening, contemplation, guru worship, and service should always be done with devotion.",
+    context: "Encourages unwavering devotion in daily practice.",
+  },
+  {
+    id: 315,
+    sanskrit:
+      "गुरुपदपद्मपूजा सत्सङ्गवचनश्रवणम्। भावपूर्वं समायुक्तं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guru-pada-padma-pūjā satsanga-vacana-śravaṇam; Bhāva-pūrvaṁ samāyuktaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Worship of the guru’s feet and heartfelt satsang listening together liberate from worldly bondage.",
+    context: "Concludes the section with a comprehensive liberation formula.",
+  },
+  {
+    id: 316,
+    sanskrit:
       "श्रवणं च परं ज्ञानं ब्रह्मभावविवर्धनम्। नित्यं कुर्याद् बुधो भक्त्या तद्वक्तारं च सेवयेत्॥",
     transliteration:
       "Śravaṇaṁ ca paraṁ jñānaṁ brahma-bhāva-vivardhanam; Nityaṁ kuryād budho bhaktyā tad-vaktāraṁ ca sevayet.",
