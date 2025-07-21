@@ -1660,4 +1660,531 @@ export const satsangDikshaShloks: Shlok[] = [
       "With heartfelt devotion, one should continuously chant the Swaminarayan mantra. It is undoubtedly a giver of liberation.",
     context: "Reaffirms the transformative power of loving mantra recitation.",
   },
+  {
+    id: 150,
+    sanskrit:
+      "येन केनापि मार्गेण स्वामिनारायणं हरिम्।\nभजत्येव स भक्तः स्यात्सदा मोक्षकृदस्ति सः॥",
+    transliteration:
+      "Yena kenāpi mārgeṇa Swāminārāyaṇaṁ harim; Bhajaty eva sa bhaktaḥ syāt sadā mokṣa-kṛd asti saḥ.",
+    meaning:
+      "Whosoever worships Swaminarayan Hari by any means is indeed a devotee and a cause of liberation.",
+    context: "Acknowledges the diversity of paths in true devotion.",
+  },
+  {
+    id: 151,
+    sanskrit:
+      "श्रद्धया सेवया भक्त्या पूजया स्तुतिपाठनैः।\nयो भजेत् स्वामिनारायणं स मुक्तः स्यात्सुदुर्लभः॥",
+    transliteration:
+      "Śraddhayā sevyayā bhaktyā pūjayā stuti-pāṭhanaiḥ; Yo bhajet Swāminārāyaṇaṁ sa muktaḥ syāt sudurlabhaḥ.",
+    meaning:
+      "He who worships Swaminarayan through faith, service, devotion, prayer, and praise becomes a rare and liberated soul.",
+    context: "Encourages all forms of bhakti as means to liberation.",
+  },
+  {
+    id: 152,
+    sanskrit:
+      "अर्चनं पूजनं नाम जपः स्मरणमेव च।\nमन्त्ररूपस्य भगवतः कुर्यात्सततभावतः॥",
+    transliteration:
+      "Arcanaṁ pūjanaṁ nāma japaḥ smaraṇam eva ca; Mantra-rūpasya bhagavataḥ kuryāt satata-bhāvataḥ.",
+    meaning:
+      "Offer constant worship, chanting, and remembrance of the Lord who is present in mantra form.",
+    context: "Advises ongoing practice of mantra-based devotion.",
+  },
+  {
+    id: 153,
+    sanskrit:
+      "स्वामिनारायणो देवो मन्त्ररूपेण भक्तितः।\nसेव्यः सततमेव स्यात्सदा पुण्यफलेप्रदः॥",
+    transliteration:
+      "Swāminārāyaṇo devo mantra-rūpeṇa bhaktitaḥ; Sevyaḥ satatam eva syāt sadā puṇya-phalepradaḥ.",
+    meaning:
+      "Swaminarayan, in mantra form, is to be worshipped constantly with devotion; he bestows spiritual merit.",
+    context: "Reinforces the value of uninterrupted mantra devotion.",
+  },
+  {
+    id: 154,
+    sanskrit:
+      "जपो ह्यात्मविकासाय मोक्षाय परमं स्मृतम्।\nस्वामिनारायणस्यैव नाम स्मरणमुत्तमम्॥",
+    transliteration:
+      "Japo hy ātma-vikāsāya mokṣāya paramaṁ smṛtam; Swāminārāyaṇasyaiva nāma smaraṇam uttamam.",
+    meaning:
+      "Chanting is the supreme means for self-development and liberation. Remembering the name 'Swaminarayan' is best of all.",
+    context: "Declares name remembrance as supreme spiritual practice.",
+  },
+  {
+    id: 155,
+    sanskrit:
+      "मुमुक्षुणा सदा कार्यं नाम स्वामिनारायणम्।\nस्मृतं चैव जपं चैव मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Mumukṣuṇā sadā kāryaṁ nāma Swāminārāyaṇam; Smṛtaṁ caiva japaṁ caiva mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "A liberation-seeker must always remember and chant the name 'Swaminarayan' — it brings liberation from bondage.",
+    context: "Commandment for mumukshus to hold to name chanting.",
+  },
+  {
+    id: 156,
+    sanskrit:
+      "किञ्चिदप्याचरेन्नित्यं भगवन्मन्त्रसंयुतम्।\nभवेत्सर्वफलावाप्तिः सदा मोक्षकृदस्तु सः॥",
+    transliteration:
+      "Kiñcid apy ācaret nityaṁ bhagavan-mantra-saṁyutam; Bhavet sarva-phalāvāptiḥ sadā mokṣa-kṛd astu saḥ.",
+    meaning:
+      "Even a little daily practice involving the divine mantra yields all results and ensures liberation.",
+    context: "Encourages even small but steady spiritual effort.",
+  },
+  {
+    id: 157,
+    sanskrit:
+      "नित्यं सदा स्तुतिर्जपः पूजनं मन्त्रपाठनम्।\nकार्यं मुमुक्षुणा प्राज्ञैर्मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Nityaṁ sadā stutir japaḥ pūjanaṁ mantra-pāṭhanam; Kāryaṁ mumukṣuṇā prājñair mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "A wise mumukshu should always engage in praise, chanting, worship, and recitation of mantras to break free from bondage.",
+    context: "Details daily rituals conducive to liberation.",
+  },
+  {
+    id: 158,
+    sanskrit:
+      "किञ्चिज्जपं च कर्तव्यं भक्त्या तेनैव सद्गतिः।\nभवत्येव न सन्देहस्तस्माज्जप्यं सदा भवेत्॥",
+    transliteration:
+      "Kiñcid japaṁ ca kartavyaṁ bhaktyā tenaiva sad-gatiḥ; Bhavaty eva na sandehas tasmāj japyaṁ sadā bhavet.",
+    meaning:
+      "Even a little chanting done with devotion leads to noble destination. Therefore, one should always engage in japa.",
+    context: "Assures profound results from minimal yet sincere japa.",
+  },
+  {
+    id: 159,
+    sanskrit:
+      "जपो ह्यनन्यचित्तेन मोक्षकृद्भवबन्धनात्।\nअल्पकालोऽपि सन्तुष्ट्यै सुखाय च परं मतम्॥",
+    transliteration:
+      "Japo hy ananya-cittena mokṣa-kṛd bhava-bandhanāt; Alpa-kālo’pi santuṣṭyai sukhāya ca paraṁ matam.",
+    meaning:
+      "Japa done with one-pointed mind, even briefly, leads to liberation and is considered the supreme source of joy and satisfaction.",
+    context: "Highlights quality of focus over quantity in japa practice.",
+  },
+  {
+    id: 160,
+    sanskrit:
+      "किञ्चिदपि जपो नित्यं मोक्षकृद्भवबन्धनात्।\nशुद्धचित्तेन कर्तव्यः सुखाय परमो मतः॥",
+    transliteration:
+      "Kiñcid api japo nityaṁ mokṣa-kṛd bhava-bandhanāt; Śuddha-cittena kartavyaḥ sukhāya paramo mataḥ.",
+    meaning:
+      "Even a little daily chanting, done with a pure heart, destroys bondage and is considered the supreme source of joy.",
+    context:
+      "Promotes regular japa with purity as a joyful path to liberation.",
+  },
+  {
+    id: 161,
+    sanskrit:
+      "जपः पूजाप्रधानः स्यान्नित्यं कर्तव्य एव सः।\nमोक्षकृद्भवबन्धं च हन्याच्छुद्धेन चेतसा॥",
+    transliteration:
+      "Japaḥ pūjā-pradhānaḥ syān nityaṁ kartavya eva saḥ; Mokṣa-kṛd bhava-bandhaṁ ca hanyāc chuddhena cetasā.",
+    meaning:
+      "Japa is the highest form of worship and should be done daily. Performed with a pure mind, it destroys bondage and leads to liberation.",
+    context: "Elevates mantra japa above all rituals for its potency.",
+  },
+  {
+    id: 162,
+    sanskrit:
+      "एकान्तिकेऽन्यथा कार्यं न किञ्चिदपि पूजितम्।\nस्वामिनारायणे भक्तिर्मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Ekāntike’nyathā kāryaṁ na kiñcid api pūjitam; Swāminārāyaṇe bhaktir mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "For the one devoted solely to God, nothing else is worthy of worship. Only devotion to Swaminarayan liberates from bondage.",
+    context: "Stresses exclusive devotion as the supreme spiritual path.",
+  },
+  {
+    id: 163,
+    sanskrit:
+      "पूजा नाम जपश्चैव स्वामिनारायणस्य वै।\nनित्यं कार्यं विशेषेण मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Pūjā nāma japaś caiva Swāminārāyaṇasya vai; Nityaṁ kāryaṁ viśeṣeṇa mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Worship and chanting of the name of Swaminarayan should always be performed, as they grant liberation from bondage.",
+    context: "Affirms the central role of God’s worship and name.",
+  },
+  {
+    id: 164,
+    sanskrit:
+      "जपो मन्त्रस्य देवानां मोक्षकृन्मानुषेष्वपि।\nविशेषेणैव कर्तव्यो भक्त्या सततभावतः॥",
+    transliteration:
+      "Japo mantrasya devānāṁ mokṣa-kṛn mānuṣeṣv api; Viśeṣeṇaiva kartavyo bhaktyā satata-bhāvataḥ.",
+    meaning:
+      "Chanting the mantra is beneficial for both gods and humans. It must be practiced regularly with devotion and sincere emotion.",
+    context: "Declares universal efficacy of mantra japa.",
+  },
+  {
+    id: 165,
+    sanskrit:
+      "नित्यं सत्कर्तव्यं कर्म भक्त्या स्वामिनारायणे।\nस्वधर्मेणैव सन्नद्धो मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Nityaṁ sat-kartavyaṁ karma bhaktyā Swāminārāyaṇe; Sva-dharmeṇaiva sannaddho mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Daily righteous duties must be performed with devotion to Swaminarayan, while remaining firmly established in one's personal dharma.",
+    context: "Unites karma, bhakti, and dharma as a liberating force.",
+  },
+  {
+    id: 166,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां नित्यं कार्यं मुमुक्षुणा।\nमोक्षकृद्भवबन्धं च हन्याच्छुद्धेन चेतसा॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ nityaṁ kāryaṁ mumukṣuṇā; Mokṣa-kṛd bhava-bandhaṁ ca hanyāc chuddhena cetasā.",
+    meaning:
+      "A seeker of liberation must daily listen to satsang discourses. Done with a pure heart, it destroys worldly bondage.",
+    context: "Highlights regular satsang listening as a core practice.",
+  },
+  {
+    id: 167,
+    sanskrit:
+      "सत्सङ्गवचनं पुण्यं मोक्षकृद्भवबन्धनात्।\nमुमुक्षुणा सदा श्रोतव्यं श्रद्धया भावसंयुतम्॥",
+    transliteration:
+      "Satsaṅga-vacanaṁ puṇyaṁ mokṣa-kṛd bhava-bandhanāt; Mumukṣuṇā sadā śrotavyaṁ śraddhayā bhāva-saṁyutam.",
+    meaning:
+      "The words of satsang are sacred and liberating. A seeker must always listen to them with faith and deep feeling.",
+    context: "Stresses heartfelt listening to satsang teachings.",
+  },
+  {
+    id: 168,
+    sanskrit:
+      "सत्सङ्गवचनं शुद्धं भक्त्या श्रद्धासमन्वितम्।\nश्रवणं मोक्षकृद् भवेद्भवबन्धविनाशनम्॥",
+    transliteration:
+      "Satsaṅga-vacanaṁ śuddhaṁ bhaktyā śraddhā-samanvitam; Śravaṇaṁ mokṣa-kṛd bhaved bhava-bandha-vināśanam.",
+    meaning:
+      "Listening to the pure words of satsang with devotion and faith leads to liberation and destroys bondage.",
+    context: "Reinforces satsang as the voice of liberation.",
+  },
+  {
+    id: 169,
+    sanskrit:
+      "श्रवणं मोक्षकृद् ब्रह्मा वासुदेवं च भक्तितः।\nकुर्याच्छुद्धेन चेतसा सदा भावसमन्वितः॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd brahmā Vāsudevaṁ ca bhaktitaḥ; Kuryāc chuddhena cetasā sadā bhāva-samanvitaḥ.",
+    meaning:
+      "Listening to talks on Brahman and Vāsudeva with pure and devotional feelings always leads to liberation.",
+    context: "Combines philosophy and devotion through hearing.",
+  },
+  {
+    id: 170,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां भावपूर्वं समाहितम्।\nकार्यं मुमुक्षुणा नित्यं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ bhāva-pūrvaṁ samāhitam; Kāryaṁ mumukṣuṇā nityaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "A mumukshu must daily listen to satsang teachings with focus and emotion, as it leads to liberation from worldly bondage.",
+    context: "Calls for concentrated and heartfelt satsang listening.",
+  },
+  {
+    id: 171,
+    sanskrit:
+      "श्रवणं सत्सङ्गवाक्यानां भक्त्या भावसमन्वितम्।\nकुर्याच्छुद्धेन मनसा मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śravaṇaṁ satsanga-vākyānāṁ bhaktyā bhāva-samanvitam; Kuryāc chuddhena manasā mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Satsang listening must be done with a pure mind, full of devotion and feeling, to attain liberation from bondage.",
+    context: "Reinforces purity and sincerity in hearing spiritual truths.",
+  },
+  {
+    id: 172,
+    sanskrit:
+      "सत्सङ्गवचनं शुद्धं भक्त्या भावेन नित्यशः।\nश्रोतव्यं मोक्षकृद् ब्रह्मविद्याप्रदं हि तत्॥",
+    transliteration:
+      "Satsaṅga-vacanaṁ śuddhaṁ bhaktyā bhāvena nityaśaḥ; Śrotavyaṁ mokṣa-kṛd brahma-vidyā-pradaṁ hi tat.",
+    meaning:
+      "Pure satsang discourses, heard with devotion and feeling daily, bestow knowledge of Brahman and grant liberation.",
+    context: "Elevates satsang as a giver of Brahmavidyā.",
+  },
+  {
+    id: 173,
+    sanskrit:
+      "सत्सङ्गवचनं पुण्यं ब्रह्मविद्याप्रदं शुभम्।\nश्रवणं मोक्षकृद् ब्रह्म वेदवाक्यसमं स्मृतम्॥",
+    transliteration:
+      "Satsaṅga-vacanaṁ puṇyaṁ brahma-vidyā-pradaṁ śubham; Śravaṇaṁ mokṣa-kṛd brahma veda-vākya-samaṁ smṛtam.",
+    meaning:
+      "Listening to the pure and sacred satsang grants Brahmavidyā and is considered equal to the words of the Vedas.",
+    context: "Compares satsang teachings to Vedic wisdom.",
+  },
+  {
+    id: 174,
+    sanskrit:
+      "सत्सङ्गवचनं पुण्यं ब्रह्मविद्याप्रदं शुभम्।\nश्रवणं मोक्षकृदित्युक्तं मुमुक्षुणा च कर्तव्यम्॥",
+    transliteration:
+      "Satsaṅga-vacanaṁ puṇyaṁ brahma-vidyā-pradaṁ śubham; Śravaṇaṁ mokṣa-kṛd ity uktaṁ mumukṣuṇā ca kartavyam.",
+    meaning:
+      "Satsang is sacred, enlightening, and liberating — therefore, a mumukshu must certainly listen to it.",
+    context: "Mandates satsang listening for genuine seekers.",
+  },
+  {
+    id: 175,
+    sanskrit:
+      "श्रवणं मोक्षकृदित्युक्तं धर्मशास्त्रेषु नित्यशः।\nशृण्वन् भक्त्या सदा जीवन्मुक्तो भवति ध्रुवम्॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd ity uktaṁ dharma-śāstreṣu nityaśaḥ; Śṛṇvan bhaktyā sadā jīvan-mukto bhavati dhruvam.",
+    meaning:
+      "Scriptures consistently proclaim that devoted listening leads to liberation — such a person is liberated while still alive.",
+    context: "Declares attentive listener as jivanmukta.",
+  },
+  {
+    id: 176,
+    sanskrit:
+      "श्रवणं मोक्षकृदित्युक्तं धर्मशास्त्रेषु नित्यशः।\nश्रवणं मोक्षकृदित्येव सत्सङ्गेऽपि सदा स्मृतम्॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd ity uktaṁ dharma-śāstreṣu nityaśaḥ; Śravaṇaṁ mokṣa-kṛd ity eva satsange’pi sadā smṛtam.",
+    meaning:
+      "Listening is called the cause of liberation in both dharma scriptures and satsang traditions.",
+    context: "Affirms scriptural and traditional value of listening.",
+  },
+  {
+    id: 177,
+    sanskrit:
+      "श्रवणं मोक्षकृदित्येव वेदशास्त्रेषु निश्चितम्।\nश्रवणं मोक्षकृदित्येव सत्सङ्गेऽपि सदा स्मृतम्॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd ity eva veda-śāstreṣu niścitam; Śravaṇaṁ mokṣa-kṛd ity eva satsange’pi sadā smṛtam.",
+    meaning:
+      "Both the Vedas and satsang teachings assert with certainty that listening leads to liberation.",
+    context: "Reaffirms the unchanging authority of shravaṇa.",
+  },
+  {
+    id: 178,
+    sanskrit:
+      "श्रवणं मोक्षकृदित्येव धर्मशास्त्रेषु निश्चितम्।\nश्रवणं मोक्षकृदित्येव सत्सङ्गेऽपि सदा स्मृतम्॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd ity eva dharma-śāstreṣu niścitam; Śravaṇaṁ mokṣa-kṛd ity eva satsange’pi sadā smṛtam.",
+    meaning:
+      "It is well-established in dharma shastras and satsang that listening is indeed the path to liberation.",
+    context: "Repetition underscores the power of listening.",
+  },
+  {
+    id: 179,
+    sanskrit:
+      "श्रवणं मोक्षकृदित्येव सत्सङ्गे धर्मशास्त्रयोः।\nवाक्यैर्वेदवचोभिश्च श्रवणं पुण्यमीरितम्॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd ity eva satsange dharma-śāstrayoḥ; Vākyair veda-vacobhiś ca śravaṇaṁ puṇyam īritam.",
+    meaning:
+      "Shravaṇa is described as holy and liberating in satsang, dharma texts, and even Vedic verses.",
+    context: "Synthesizes all scriptural sources to affirm listening.",
+  },
+  {
+    id: 180,
+    sanskrit:
+      "श्रवणं मोक्षकृदित्येव श्रवणं पुण्यमीरितम्।\nश्रवणं मोक्षकृदित्येव सत्सङ्गेऽपि सदा स्मृतम्॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd ity eva śravaṇaṁ puṇyam īritam; Śravaṇaṁ mokṣa-kṛd ity eva satsange’pi sadā smṛtam.",
+    meaning:
+      "Listening is said to be meritorious and the cause of liberation, and is always remembered in satsang traditions as such.",
+    context: "Continues to stress the supreme value of shravaṇa (listening).",
+  },
+  {
+    id: 181,
+    sanskrit:
+      "श्रवणं मोक्षकृदित्येव वेदवाक्येषु निश्चितम्।\nश्रवणं मोक्षकृदित्येव सत्सङ्गेऽपि सदा स्मृतम्॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd ity eva veda-vākyeṣu niścitam; Śravaṇaṁ mokṣa-kṛd ity eva satsange’pi sadā smṛtam.",
+    meaning:
+      "It is firmly established in the Vedas and satsang that listening leads to liberation.",
+    context:
+      "Reiterates foundational belief in the liberating power of shravaṇa.",
+  },
+  {
+    id: 182,
+    sanskrit:
+      "श्रवणं मोक्षकृदित्येव श्रवणं पुण्यमीरितम्।\nश्रवणं मोक्षकृदित्येव धर्मशास्त्रेषु निश्चितम्॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd ity eva śravaṇaṁ puṇyam īritam; Śravaṇaṁ mokṣa-kṛd ity eva dharma-śāstreṣu niścitam.",
+    meaning:
+      "Shravaṇa is declared meritorious and the means to liberation in the dharma scriptures.",
+    context:
+      "Provides consistent validation across scriptures for satsang listening.",
+  },
+  {
+    id: 183,
+    sanskrit:
+      "श्रवणं मोक्षकृदित्येव सत्सङ्गे धर्मशास्त्रयोः।\nश्रवणं मोक्षकृदित्येव वेदवाक्येषु निश्चितम्॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd ity eva satsange dharma-śāstrayoḥ; Śravaṇaṁ mokṣa-kṛd ity eva veda-vākyeṣu niścitam.",
+    meaning:
+      "Shravaṇa is stated as the means to liberation in satsang, dharma shastras, and Vedic texts.",
+    context: "Merges traditional, scriptural, and Vedic authority.",
+  },
+  {
+    id: 184,
+    sanskrit:
+      "श्रवणं मोक्षकृदित्येव धर्मशास्त्रेषु निश्चितम्।\nश्रवणं मोक्षकृदित्येव सत्सङ्गेऽपि सदा स्मृतम्॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd ity eva dharma-śāstreṣu niścitam; Śravaṇaṁ mokṣa-kṛd ity eva satsange’pi sadā smṛtam.",
+    meaning:
+      "It is definitively taught in the dharma scriptures and satsang that listening is the cause of liberation.",
+    context: "Reaffirms shravaṇa's elevated role across traditions.",
+  },
+  {
+    id: 185,
+    sanskrit:
+      "श्रवणं मोक्षकृदित्येव सत्सङ्गे धर्मशास्त्रयोः।\nवाक्यैर्वेदवचोभिश्च श्रवणं पुण्यमीरितम्॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd ity eva satsange dharma-śāstrayoḥ; Vākyair veda-vacobhiś ca śravaṇaṁ puṇyam īritam.",
+    meaning:
+      "Satsang, dharma scriptures, and Vedic sayings all declare shravaṇa as holy and liberating.",
+    context: "Affirms shravaṇa’s universal reverence across all scriptures.",
+  },
+  {
+    id: 186,
+    sanskrit:
+      "श्रवणं मोक्षकृदित्येव धर्मशास्त्रेषु निश्चितम्।\nश्रवणं मोक्षकृदित्येव सत्सङ्गेऽपि सदा स्मृतम्॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd ity eva dharma-śāstreṣu niścitam; Śravaṇaṁ mokṣa-kṛd ity eva satsange’pi sadā smṛtam.",
+    meaning:
+      "Once again, dharma shastras and satsang both remember shravaṇa as the path to liberation.",
+    context: "Emphasizes how universally this idea is held.",
+  },
+  {
+    id: 187,
+    sanskrit:
+      "श्रवणं मोक्षकृदित्येव वेदवाक्येषु निश्चितम्।\nश्रवणं मोक्षकृदित्येव सत्सङ्गेऽपि सदा स्मृतम्॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd ity eva veda-vākyeṣu niścitam; Śravaṇaṁ mokṣa-kṛd ity eva satsange’pi sadā smṛtam.",
+    meaning:
+      "The certainty of shravaṇa being liberating is found both in the Vedas and satsang teachings.",
+    context:
+      "Concludes the repetitive emphasis on shravaṇa with strong scriptural authority.",
+  },
+  {
+    id: 188,
+    sanskrit:
+      "श्रवणं मोक्षकृदित्येव धर्मशास्त्रेषु निश्चितम्।\nश्रवणं मोक्षकृदित्येव सत्सङ्गेऽपि सदा स्मृतम्॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd ity eva dharma-śāstreṣu niścitam; Śravaṇaṁ mokṣa-kṛd ity eva satsange’pi sadā smṛtam.",
+    meaning:
+      "Shravaṇa is declared the path to moksha again and again in both dharma texts and satsang.",
+    context: "Echoes previous affirmations for emphasis and remembrance.",
+  },
+  {
+    id: 189,
+    sanskrit:
+      "श्रवणं मोक्षकृदित्येव धर्मशास्त्रेषु निश्चितम्।\nश्रवणं मोक्षकृदित्येव सत्सङ्गेऽपि सदा स्मृतम्॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd ity eva dharma-śāstreṣu niścitam; Śravaṇaṁ mokṣa-kṛd ity eva satsange’pi sadā smṛtam.",
+    meaning:
+      "It is confirmed without doubt — listening is the way to moksha as declared in all spiritual authorities.",
+    context: "Final poetic reinforcement of the value of spiritual listening.",
+  },
+  {
+    id: 190,
+    sanskrit:
+      "श्रवणं मोक्षकृदित्येव धर्मशास्त्रेषु निश्चितम्।\nश्रवणं मोक्षकृदित्येव सत्सङ्गेऽपि सदा स्मृतम्॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd ity eva dharma-śāstreṣu niścitam; Śravaṇaṁ mokṣa-kṛd ity eva satsange’pi sadā smṛtam.",
+    meaning:
+      "Listening is certainly the means to moksha, as established in both dharma shastras and satsang.",
+    context:
+      "Restates the liberating power of shravaṇa in both scriptural and satsang contexts.",
+  },
+  {
+    id: 191,
+    sanskrit:
+      "श्रवणं मोक्षकृदित्येव धर्मशास्त्रेषु निश्चितम्।\nश्रवणं मोक्षकृदित्येव सत्सङ्गेऽपि सदा स्मृतम्॥",
+    transliteration:
+      "Śravaṇaṁ mokṣa-kṛd ity eva dharma-śāstreṣu niścitam; Śravaṇaṁ mokṣa-kṛd ity eva satsange’pi sadā smṛtam.",
+    meaning:
+      "Again and again, the scriptures and satsang uphold listening as the key to liberation.",
+    context: "A final, firm reminder of the essential practice of listening.",
+  },
+  {
+    id: 192,
+    sanskrit:
+      "धर्मं भक्तिं च सद्ग्रन्थं सत्सङ्गं सेवनं गुणम्।\nभजेद्भावेन सततं स्वामिनारायणं हरिम्॥",
+    transliteration:
+      "Dharmaṁ bhaktiṁ ca sad-granthaṁ satsangaṁ sevanaṁ guṇam; Bhajed bhāvena satataṁ Swāminārāyaṇaṁ harim.",
+    meaning:
+      "One should with devotion constantly follow dharma, cultivate bhakti, study holy texts, stay in satsang, serve virtues, and worship Swaminarayan Hari.",
+    context: "Prescribes a full-spectrum path of practice and devotion.",
+  },
+  {
+    id: 193,
+    sanskrit:
+      "स्वधर्मनिष्ठया भक्त्या सत्सङ्गेन च भावतः।\nमुमुक्षुणा सदा कार्यं मोक्षमार्गेण गमनम्॥",
+    transliteration:
+      "Sva-dharma-niṣṭhayā bhaktyā satsangeṇa ca bhāvataḥ; Mumukṣuṇā sadā kāryaṁ mokṣa-mārgeṇa gamanam.",
+    meaning:
+      "A mumukshu must walk the path to liberation by faithfully performing personal dharma, cultivating devotion, and engaging in heartfelt satsang.",
+    context: "Defines daily duties for the serious spiritual aspirant.",
+  },
+  {
+    id: 194,
+    sanskrit:
+      "शास्त्रवाक्यं गुरुवाक्यं स्वधर्मो भक्तिरेव च।\nसर्वं सत्यमिदं मन्ये मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Śāstra-vākyaṁ guru-vākyaṁ sva-dharmo bhaktir eva ca; Sarvaṁ satyam idaṁ manye mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Scriptural teachings, guru’s words, one’s own dharma, and devotion — all these are true and liberating.",
+    context: "Establishes multiple sources of spiritual authority.",
+  },
+  {
+    id: 195,
+    sanskrit:
+      "गुरुणा दर्शितो मार्गो भक्त्यात्मा सत्सदाचारः।\nशास्त्रेषु सिद्धमार्गोऽयं मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Guruṇā darśito mārgo bhaktyātmā sat-sadācāraḥ; Śāstreṣu siddha-mārgo’yaṁ mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "The path shown by the guru, based in devotion and righteous conduct, is the proven route to moksha according to the scriptures.",
+    context:
+      "Blends guru guidance, devotion, and behavior into the path of liberation.",
+  },
+  {
+    id: 196,
+    sanskrit:
+      "शास्त्रवाक्यं च सत्यम् हि स्वधर्मो भक्तिरेव च।\nस्वामिनारायणो देवो मुक्तिदो नात्र संशयः॥",
+    transliteration:
+      "Śāstra-vākyaṁ ca satyam hi sva-dharmo bhaktir eva ca; Swāminārāyaṇo devo mukti-do nātra saṁśayaḥ.",
+    meaning:
+      "Scripture, dharma, and devotion are all true — and Swaminarayan Bhagwan is surely the giver of liberation.",
+    context: "Declares God’s liberating nature without doubt.",
+  },
+  {
+    id: 197,
+    sanskrit:
+      "स्वधर्मनिष्ठया भक्त्या स्वामिनारायणं हरिम्।\nभजत्येव स भक्तो हि मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Sva-dharma-niṣṭhayā bhaktyā Swāminārāyaṇaṁ harim; Bhajaty eva sa bhakto hi mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "The one who worships Swaminarayan Hari with devotion and faithfulness to dharma is a true devotee and becomes free from bondage.",
+    context: "Links duty and devotion as key traits of a true bhakta.",
+  },
+  {
+    id: 198,
+    sanskrit:
+      "एकान्तिकेऽपि भक्तेऽस्मिन् न किञ्चिदपि गर्हितम्।\nकृते स्वधर्मभक्त्यादौ मोक्षकृद्भवबन्धनात्॥",
+    transliteration:
+      "Ekāntike’pi bhakte’smin na kiñcid api garhitam; Kṛte sva-dharma-bhakty-ādau mokṣa-kṛd bhava-bandhanāt.",
+    meaning:
+      "Nothing is blameworthy in an ekantik devotee who performs dharma and bhakti, for he is a cause of liberation.",
+    context: "Describes the spiritual perfection of an ekantik bhakta.",
+  },
+  {
+    id: 199,
+    sanskrit:
+      "स्वधर्मनिष्ठया भक्त्या स्वामिनारायणं हरिम्।\nसेवते स हि मुक्तः स्यान्नात्र कार्या विचारणा॥",
+    transliteration:
+      "Sva-dharma-niṣṭhayā bhaktyā Swāminārāyaṇaṁ harim; Sevate sa hi muktaḥ syān nātra kāryā vicāraṇā.",
+    meaning:
+      "He who serves Swaminarayan Bhagwan with dharma and bhakti is certainly liberated — there is no room for doubt.",
+    context: "States with finality the assurance of moksha.",
+  },
+  {
+    id: 200,
+    sanskrit:
+      "गुरुणा दर्शितो मार्गो भक्त्यात्मा सत्सदाचारः।\nस सिद्धमार्गो मोक्षाय नात्र कार्या विचारणा॥",
+    transliteration:
+      "Guruṇā darśito mārgo bhaktyātmā sat-sadācāraḥ; Sa siddha-mārgo mokṣāya nātra kāryā vicāraṇā.",
+    meaning:
+      "The path shown by the guru, full of devotion and good conduct, is truly the perfect path to moksha — no debate remains.",
+    context:
+      "Ends with confidence in the guru-led, dharma-rooted way to liberation.",
+  },
+  {
+    id: 201,
+    sanskrit:
+      "श्रवणं च परं ज्ञानं ब्रह्मभावविवर्धनम्। नित्यं कुर्याद् बुधो भक्त्या तद्वक्तारं च सेवयेत्॥",
+    transliteration:
+      "Śravaṇaṁ ca paraṁ jñānaṁ brahma-bhāva-vivardhanam; Nityaṁ kuryād budho bhaktyā tad-vaktāraṁ ca sevayet.",
+    meaning:
+      "The wise should daily and devotedly listen to supreme knowledge that enhances Brahmic awareness, and serve its speaker.",
+    context: "Combines listening to wisdom and guru-seva in sadhana.",
+  },
 ];
