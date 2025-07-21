@@ -266,5 +266,124 @@ export const satsangDikshaShloks: Shlok[] = [
     transliteration: "Tattva-jñāna-vināśena bhrāntir naśyati sarvathā; Śravaṇaṁ tu mahā-puṇyaṁ jñāna-hetuṁ tu kevalam.",
     meaning: "By gaining true knowledge, delusion is entirely destroyed. Listening (to shastras) is highly meritorious and the sole cause of wisdom.",
     context: "Praises the transformative power of spiritual listening."
+  },
+  {
+    id: 52,
+    sanskrit: "श्रवणं कीर्तनं चैव स्मरणं दर्शनं तथा।\nसेवा सख्यं समाधाना आत्मन्यर्पणमेव च॥",
+    transliteration: "Śravaṇaṁ kīrtanaṁ caiva smaraṇaṁ darśanaṁ tathā; Sevā sakhyaṁ samādhānā ātma-nyarpaṇam eva ca.",
+    meaning: "Listening, singing, remembering, darshan, service, friendship, mental steadiness, and self-surrender are all forms of devotion.",
+    context: "Lists core practices of bhakti (devotion)."
+  },
+  {
+    id: 53,
+    sanskrit: "सद्भक्तिर्ह्येकतन्मन्यः परं प्रेमात्मनिर्मलः।\nनित्ययुक्तः समो दान्तो दाक्षिण्यगुणशालिनः॥",
+    transliteration: "Sad-bhaktir hy-ekatan-manyaḥ paraṁ premātma-nirmalaḥ; Nitya-yuktaḥ samo dānto dākṣiṇya-guṇa-śālinaḥ.",
+    meaning: "True devotion is one-mindedness, deep love, purity of soul, constant union, equanimity, self-restraint, and humility.",
+    context: "Defines the nature and qualities of a true devotee."
+  },
+  {
+    id: 54,
+    sanskrit: "यथाशास्त्रं गुरुं प्राप्य तदादेशं च सङ्ग्रहेत्।\nतदनुसारिणं भक्तं वन्देऽहं भक्तवत्सलम्॥",
+    transliteration: "Yathā-śāstraṁ guruṁ prāpya tad-ādeśaṁ ca saṅgrahet; Tadanusāriṇaṁ bhaktaṁ vande'haṁ bhakta-vatsalam.",
+    meaning: "One should approach the guru as per scripture, follow his instruction, and honor the obedient devotee, for he is beloved of God.",
+    context: "Stresses obedience to guru and love for the faithful."
+  },
+  {
+    id: 55,
+    sanskrit: "श्रवणेनापि सत्सङ्गं लभते जीव आत्मनः।\nसङ्गात्सद्गुरुमाप्नोति ततः शास्त्रार्थबोधकम्॥",
+    transliteration: "Śravaṇenāpi satsangaṁ labhate jīva ātmanaḥ; Saṅgāt sad-gurum āpnoti tataḥ śāstrārtha-bodhakam.",
+    meaning: "By listening, the soul attains satsang, and through that, a true guru who imparts the meaning of shastras.",
+    context: "Highlights the progression from hearing to realization."
+  },
+  {
+    id: 56,
+    sanskrit: "गुरुणा दर्शितं शास्त्रं व्याख्यां श्रुत्वा विचारयेत्।\nसंशयो यत्र संजायेत् तत्र पृच्छेन्निरन्तरम्॥",
+    transliteration: "Guruṇā darśitaṁ śāstraṁ vyākhyāṁ śrutvā vicārayet; Saṁśayo yatra saṁjāyet tatra pṛcchen nirantaram.",
+    meaning: "After hearing the guru's explanation of scripture, one should contemplate. Wherever doubt arises, one should constantly question.",
+    context: "Encourages active inquiry alongside faith."
+  },
+  {
+    id: 57,
+    sanskrit: "संशयो हि महानाशः संशयो ह्युपहन्यते।\nन हि संशयिनो लोके कश्चिद्वन्द्यः सदा भवेत्॥",
+    transliteration: "Saṁśayo hi mahān āśaḥ saṁśayo hy-upahanyate; Na hi saṁśayino loke kaścid vandyaḥ sadā bhavet.",
+    meaning: "Doubt is a great obstruction and should be dispelled. One who doubts is never truly respected.",
+    context: "Stresses the danger of spiritual doubt."
+  },
+  {
+    id: 58,
+    sanskrit: "विश्वासो विनियोगश्च पादुका गुरुपादयोः।\nउपदेशो गुरुस्तुतिः परोऽवस्थापनो गुरु॥",
+    transliteration: "Viśvāso viniyogaś ca pādukā guru-pādayoḥ; Upadeśo guru-stutiḥ paro'vasthāpano guru.",
+    meaning: "Faith, surrender, serving the guru's feet, receiving teachings, and praising the guru are supreme means.",
+    context: "Lays out devotional duties toward the guru."
+  },
+  {
+    id: 59,
+    sanskrit: "शिष्यैश्च गुरुणा सार्धं समाधेः कारणं महत्।\nनित्यं गृहीत्वा संशुद्धं गुरुभावं सदा हरेत्॥",
+    transliteration: "Śiṣyaiś ca guruṇā sārdhaṁ samādheḥ kāraṇaṁ mahat; Nityaṁ gṛhītvā saṁśuddhaṁ guru-bhāvaṁ sadā haret.",
+    meaning: "Disciples and guru together cultivate meditation. One should always sustain pure feelings toward the guru.",
+    context: "Shows the mutual responsibility in the guru-disciple bond."
+  },
+  {
+    id: 60,
+    sanskrit: "गुरुभक्त्यादिना मोक्षो लभ्यते नात्र संशयः।\nगुरोः कृपाप्रसादेन साक्षात्परमपदं लभेत्॥",
+    transliteration: "Guru-bhaktyādinā mokṣo labhyate nātra saṁśayaḥ; Guroḥ kṛpā-prasādena sākṣāt parama-padaṁ labhet.",
+    meaning: "Liberation is attained through guru-bhakti and by his grace one achieves the supreme state.",
+    context: "Confirms moksha is reached by the guru's compassion."
+  },
+  {
+    id: 61,
+    sanskrit: "श्रवणं च परं ज्ञानं ब्रह्मभावविवर्धनम्।\nनित्यं कुर्याद् बुधो भक्त्या तद्वक्तारं च सेवयेत्॥",
+    transliteration: "Śravaṇaṁ ca paraṁ jñānaṁ brahma-bhāva-vivardhanam; Nityaṁ kuryād budho bhaktyā tad-vaktāraṁ ca sevayet.",
+    meaning: "The wise should daily and devotedly listen to supreme knowledge that enhances Brahmic awareness, and serve its speaker.",
+    context: "Combines listening to wisdom and guru-seva in sadhana."
+  },
+  {
+    id: 44,
+    sanskrit: "आत्मा ब्रह्म स्वरूपो हि नित्यः शुद्धो निरामयः।\nप्रकाशकश्च ज्ञः साक्षी सर्वत्र समवस्थितः॥",
+    transliteration: "Ātmā brahma-svarūpo hi nityaḥ śuddho nirāmayaḥ; Prakāśakaś ca jñaḥ sākṣī sarvatra samavasthitaḥ.",
+    meaning: "The ātma, being of the nature of Brahman, is eternal, pure, flawless, luminous, knowing, and all-pervading.",
+    context: "Defines the essential characteristics of the ātma."
+  },
+  {
+    id: 45,
+    sanskrit: "ब्रह्मात्मैक्यं समासाद्य जीवन्मुक्तो भवेद्यदि।\nस जीवन्मुक्तिरुक्तः स्यात्सर्वबन्धविवर्जितः॥",
+    transliteration: "Brahmātmaikyaṁ samāsādya jīvanmukto bhaved yadi; Sa jīvanmuktir uktaḥ syāt sarva-bandha-vivarjitaḥ.",
+    meaning: "Attaining oneness of ātma and Brahman, one becomes liberated while alive, free from all bondage.",
+    context: "Defines the state of jivanmukti (liberation while living)."
+  },
+  {
+    id: 46,
+    sanskrit: "सर्वसङ्गविहीनस्य मुक्तस्य स्थिरबुद्धेः।\nलक्षणं ब्रह्मभावस्य श्रद्धाभक्तिसमन्वितम्॥",
+    transliteration: "Sarva-saṅga-vihīnasya muktasya sthira-buddheḥ; Lakṣaṇaṁ brahma-bhāvasya śraddhā-bhakti-samanvitam.",
+    meaning: "The sign of Brahmic awareness in the liberated is detachment, steady intellect, faith, and devotion.",
+    context: "Highlights the qualities of one established in Brahmic realization."
+  },
+  {
+    id: 47,
+    sanskrit: "आत्मारामो भवेद्यस्तु स्थितधीः सत्यसङ्गराट्।\nब्रह्मभावं विजानाति स एव परमार्थवित्॥",
+    transliteration: "Ātmārāmo bhaved yas tu sthita-dhīḥ satya-saṅgaraāṭ; Brahma-bhāvaṁ vijānāti sa eva paramārtha-vit.",
+    meaning: "One who delights in the self, is steady-minded, and ruler of true association alone knows the ultimate truth.",
+    context: "Describes the truly enlightened knower of Brahman."
+  },
+  {
+    id: 48,
+    sanskrit: "गुरुप्रसादतः सर्वं ज्ञानं ब्रह्मविदां मतम्।\nसंस्मृत्या सच्छ्रवणेन सत्सङ्गेन च लभ्यते॥",
+    transliteration: "Guru-prasādataḥ sarvaṁ jñānaṁ brahma-vidāṁ matam; Saṁsmṛtyā sac-chravaṇena satsangena ca labhyate.",
+    meaning: "According to Brahmavidya, all knowledge comes through the guru's grace, remembrance, listening to truth, and satsang.",
+    context: "Acknowledges the role of the guru and satsang in gaining knowledge."
+  },
+  {
+    id: 49,
+    sanskrit: "ज्ञानं तु परमं शास्त्रं श्रद्धया यः समाचरेत्।\nस एव ब्रह्मरूपो हि सदा भवति निर्भयः॥",
+    transliteration: "Jñānaṁ tu paramaṁ śāstraṁ śraddhayā yaḥ samācaret; Sa eva brahma-rūpo hi sadā bhavati nirbhayaḥ.",
+    meaning: "One who faithfully follows the supreme scripture of knowledge becomes Brahman itself and lives fearlessly.",
+    context: "True scriptural living results in fearlessness and oneness with Brahman."
+  },
+  {
+    id: 51,
+    sanskrit: "तत्त्वज्ञानविनाशेन भ्रान्तिर्नश्यति सर्वथा।\nश्रवणं तु महापुण्यं ज्ञानहेतुं तु केवलम्॥",
+    transliteration: "Tattva-jñāna-vināśena bhrāntir naśyati sarvathā; Śravaṇaṁ tu mahā-puṇyaṁ jñāna-hetuṁ tu kevalam.",
+    meaning: "By gaining true knowledge, delusion is entirely destroyed. Listening (to shastras) is highly meritorious and the sole cause of wisdom.",
+    context: "Praises the transformative power of spiritual listening."
   }
 ];
